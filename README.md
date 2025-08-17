@@ -1,4 +1,4 @@
-# surrogate-two-layer-model
+# Surrogate Formulation for Two-Layer Wall Model
 
 
 ## References
